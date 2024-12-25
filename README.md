@@ -113,7 +113,7 @@ Latvijas vēsture līdz 20.gadsimtam
 #### 8. Kāda bija Krievijas impērijas īstenotā nacionālā politika Latvijas teritorijā 19.gs. beigās?
 > Baltijā sākas rusifikācija politika.
 
-#### 9. Kas raksturo saimnieciskās attīstības līmeni Latvijas teritorijā 19.gs. beigās?
+#### 9. Kas raksturo saimnieciskās attīstības līmeni Latvijas teritorijā 19.gs. beigās?  проверить
 > Lauksaimniecība, zvejniecība.
 
 #### 10. (*) Kura kustība  aizsāka latviešu tautas nacionālo atmodu 19.gs. vidū?
