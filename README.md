@@ -98,7 +98,7 @@ Latvijas vēsture līdz 20.gadsimtam
 #### 3. Kuru valstu pakļautībā 16. – 19. gadsimtā bija vismaz daļa Latvijas teritorijas?
 > Polijas – Lietuvas, Krievijas, Zviedrijas pakļautībā
 
-#### 4. Kādi bija Krievijas impērijas mērķi cīņā par Latvijas teritoriju 18.gs.?
+#### 4. Kādi bija Krievijas impērijas mērķi cīņā par Latvijas teritoriju 18.gs.? проверить
 > (?) Pieieja Baltijas jūrai
 
 #### 5. Kurā gadsimtā sāka darboties pirmās latviešu skolas?
