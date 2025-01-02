@@ -144,7 +144,7 @@ Jaunāko laiku Latvijas vēsture
 
 > 1917.gadā Ziemassvētku kaujas (Rīgas aizstāvēšana).
 
-#### 5. Kāds nozīmīgs notikums pasaulē 1918.gadā veicināja neatkarīgas Latvijas valsts izveidošanos?
+#### 5. Kāds nozīmīgs notikums pasaulē 1918.gadā veicināja neatkarīgas Latvijas valsts izveidošanos? Проверить
 > Brestļitovskas miera līgums
 
 #### 6. (*) Kad tika pasludināta neatkarīgā Latvijas valsts?
