@@ -255,7 +255,7 @@ Jaunāko laiku Latvijas vēsture
 Kultūra un latviešu tautas tradīcijas
 ---------------------
 
-#### 1. Kādu kultūras mantojumu latviešu tauta ir saglabājusi gadsimtu gaitā?
+#### 1. Kādu kultūras mantojumu latviešu tauta ir saglabājusi gadsimtu gaitā? Проверить
 > Rīgas vēsturiskais centrs kur atrodas viduslaiku apbūve un jūgendstila celtnes. 1525.gadā (16.gadsimta) bija izdoti pirmās grāmatas latviešu valoda.
 #### 2. Kādu folkloras žanru latvieši ir saglabājuši un izmantojuši gadsimtu gaitā?
 > Dainas
