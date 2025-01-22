@@ -305,7 +305,7 @@ Kultūra un latviešu tautas tradīcijas
 #### 17. (*) Kurš ir Brīvības pieminekļa un Brāļu kapu memoriāla autors?
 > Kārlis Zāle
 
-#### 18. Kas raksturīgs latviešu kultūras attīstībai pēc Otrā pasaules kara?
+#### 18. Kas raksturīgs latviešu kultūras attīstībai pēc Otrā pasaules kara? проверить
 > Dziesmusvētki, tautas tērpi, keramika
 
 #### 19. Kādi apstākļi traucēja kultūras attīstību Latvijā padomju varas gados?
