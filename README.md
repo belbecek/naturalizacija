@@ -312,7 +312,7 @@ Kultūra un latviešu tautas tradīcijas
 > Cenzūra, Ideoloģisks dīktats un sociālistisko reālismu robežas.
 
 #### 20. Kāpēc latviešu kultūrā ir nozīmīgi Ojārs Vācietis un Imants Ziedonis?
-> Dzejnieki. Izcili Latviešu dzejnieki. Veicināja latviešu pašapziņas.
+> Dzejnieki. Izcili Latviešu dzejnieki. Veicināja latviešu pašapziņas veidošanos.
 
 #### 21. Ar ko ievērojami latviešu kultūrā ir Raimonds Pauls un Imants Kalniņš?
 > Komponisti
