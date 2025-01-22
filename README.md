@@ -338,7 +338,7 @@ Elīna Garanča (mecosoprāns), Inese Galante (soprāns) Marija Naumova, Prāta 
 
 > Olu krāsošana
 
-> Tradcionāli Ziemassvētku ēdieni ir zirņi un pupas. Jautraie masku gājieni
+> Tradcionāli Ziemassvētku ēdieni ir zirņi un pupas. Jautraie masku gājieni (iet budēļos)
 
 Reliģija
 ---------------------
