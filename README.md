@@ -456,7 +456,7 @@ Latvijas Republikas Satversme
 > Ieprikš pieteiktus miermīlīgus piketus, sapulces, mītiņus un gājienus.
 
 #### 33. (*) Kas aizsargā arodbiedrību brīvību Latvijā?
-> Latvijas pilsoņiem
+> Likums
 
 #### 34. (*) Kam ir tiesības pildīt valsts dienestu?
 > Latvijas pilsoņiem
