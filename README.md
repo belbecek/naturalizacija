@@ -99,7 +99,7 @@ Latvijas vēsture līdz 20.gadsimtam
 > Polijas – Lietuvas, Krievijas, Zviedrijas pakļautībā
 
 #### 4. Kādi bija Krievijas impērijas mērķi cīņā par Latvijas teritoriju 18.gs.? проверить
-> (?) 1. Nodrošināt pieeju Baltijas jūrai 2.Ekonomiskā kontrole 3.Politiskā un militārā ietekme
+> (?) 1. Pilnīga kontrole pār Baltijas teritorijām (t.sk. Kurzemes un Zemgales hercogisti) 2.Ekonomiskā kontrole 3.Politiskā un militārā ietekme
 
 #### 5. Kurā gadsimtā sāka darboties pirmās latviešu skolas?
 > 16. gadsimta otrajā pusē
@@ -114,7 +114,7 @@ Latvijas vēsture līdz 20.gadsimtam
 > Baltijā sākas rusifikācija politika.
 
 #### 9. Kas raksturo saimnieciskās attīstības līmeni Latvijas teritorijā 19.gs. beigās?  проверить
-> Lauksaimniecība, zvejniecība.
+> Lauksaimniecība, zvejniecība, rūpniecība, tirdzniecība un dzelzceļa attīstība.
 
 #### 10. (*) Kura kustība  aizsāka latviešu tautas nacionālo atmodu 19.gs. vidū?
 > Ar jaunlatviešu kustību. (Juris Alunāns, Krišjānis Valdemārs, Atis Kronvalds)
